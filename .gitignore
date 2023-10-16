@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/front-end/node_modules
+/front-end/build
+/staking contract/target
+/sniper/node_modules
+ui test/node_modules
